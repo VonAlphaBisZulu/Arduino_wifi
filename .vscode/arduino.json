@@ -1,0 +1,5 @@
+{
+    "board": "arduino:samd:mkrwifi1010",
+    "sketch": "src/main.cpp",
+    "port": "COM4"
+}
